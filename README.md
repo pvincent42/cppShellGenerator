@@ -1,6 +1,6 @@
 # CreateClass
 
-Create a new class
+Create a new class.
 Call it with the Class name you want, and let him do the work.
 
 Call it with :
